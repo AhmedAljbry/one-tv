@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "551837837534",
+    "project_id": "chatmessage-b2d2a",
+    "storage_bucket": "chatmessage-b2d2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551837837534:android:dc26b6889b0657ebbb7a4f",
+        "android_client_info": {
+          "package_name": "com.example.onetv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551837837534-de6ncig28df2jfvqkkp84irah0qk9pop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN4mXAI9qPgetAIu3FAs327t3nuwE-y7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551837837534-de6ncig28df2jfvqkkp84irah0qk9pop.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "551837837534-tl1p1qa1tvmv9fr71go1prsu82eckdgo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "1498D2341E8E89220040F4C2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551837837534:android:d3b1ed09a8680705bb7a4f",
+        "android_client_info": {
+          "package_name": "com.example.sportflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551837837534-8dl1em7mhtmgrd7ss6p2kg3ioebd3hru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sportflix",
+            "certificate_hash": "c30310e2b4acf0108e70516145a8543b4b835eb9"
+          }
+        },
+        {
+          "client_id": "551837837534-de6ncig28df2jfvqkkp84irah0qk9pop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN4mXAI9qPgetAIu3FAs327t3nuwE-y7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551837837534-de6ncig28df2jfvqkkp84irah0qk9pop.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "551837837534-tl1p1qa1tvmv9fr71go1prsu82eckdgo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "1498D2341E8E89220040F4C2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
