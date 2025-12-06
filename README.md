@@ -1,3 +1,5 @@
+![OneTV Player](Gemini_Generated_Image_2g8cbk2g8cbk2g8c.png)
+
 # OneTV – OneSport External Video Player  
 ### Secure HLS Streaming Player for Live Sports  
 ### Built with Flutter
@@ -10,11 +12,12 @@ It works as a lightweight, standalone Flutter application that receives a **secu
 ## 🚀 Purpose of OneTV
 
 The OneSport ecosystem uses three applications:
+
 1. **Admin Dashboard** – Manage matches & streams  
 2. **OneSport Main App** – Users browse matches  
 3. **OneTV Player** – Handles the actual video playback  
 
-**OneTV’s mission is to provide the most stable and secure video playback experience possible.**
+👉 **OneTV’s mission is to provide the most stable and secure video playback experience possible.**
 
 ---
 
@@ -22,10 +25,10 @@ The OneSport ecosystem uses three applications:
 
 ### 🎥 Live Video Playback  
 - Supports **HLS (m3u8)** streaming  
-- Optimized for live sports events  
+- Optimized for real-time sports events  
 - Full-screen mode  
 - Auto player initialization  
-- Adaptive streaming (plugin dependent)
+- Adaptive streaming (depending on plugin)
 
 ### 🔐 Secure Access  
 - Accepts secure video URLs sent from the OneSport main app  
